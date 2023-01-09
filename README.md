@@ -1,6 +1,1 @@
-v
-scasss
-sssa
-[projects.txt](https://github.com/SiddhantKodolkar/AnalogClockAnimation/files/10373516/projects.txt)
-ddaaa
-shdjas
+CG Sem-3 Mini Project
