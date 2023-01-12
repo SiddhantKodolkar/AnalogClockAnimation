@@ -73,6 +73,10 @@ ltm->tm_min  //gets minutes
 
 ltm->tm_sec  //gets seconds
 
+
+Finally,use double buffering to avoid flickering of the hands of the
+clock using setactivepage() and setvisualpage()
+
 ### Output
 <img width="616" alt="2023-01-12 (11)" src="https://user-images.githubusercontent.com/111975032/212131185-092ca8b0-c80f-4991-a8e9-a64680c09645.png">
 
