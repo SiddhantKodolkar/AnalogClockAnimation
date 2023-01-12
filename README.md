@@ -38,9 +38,13 @@ shows the system time
 •circle (250, 250, 5) will create a small dial at the centre
 
 
-<img width="475" alt="2023-01-12 (12)" src="https://user-images.githubusercontent.com/111975032/212147999-06fc6e56-4c88-45fc-b4a8-01bbb7f147a1.png">
+<img width="575" alt="2023-01-12 (12)" src="https://user-images.githubusercontent.com/111975032/212147999-06fc6e56-4c88-45fc-b4a8-01bbb7f147a1.png">
 
+The distance between each number is 30°
 
+Co-ordinates of print C = (250+ BC, 250-AB)
+
+Define π as 3.1415, make sure to include math class
 
 ### Output
 <img width="616" alt="2023-01-12 (11)" src="https://user-images.githubusercontent.com/111975032/212131185-092ca8b0-c80f-4991-a8e9-a64680c09645.png">
