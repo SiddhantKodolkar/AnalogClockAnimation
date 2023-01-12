@@ -9,3 +9,21 @@ hands.
 •This project shows an animation of an analog clock which
 shows the system time
 
+### Functions used along with syntax
+•initwindow(int width,int height,const char* title)
+
+•setcolor(color)
+
+•outtextxy(int x,int y, char *string)
+
+•setactivepage(int page)
+
+•setvisualpage(int page)
+
+•time(int time in seconds)
+
+•localtime(time-t *timer)
+
+•delay(int time in seconds)
+
+•closegraph()
