@@ -31,10 +31,14 @@ shows the system time
 
 ### About Code
 
-<img width="616" alt="Explanation part-1" src="https://user-images.githubusercontent.com/111975032/212144893-0605ed93-164c-4f7d-b4dd-0c1ce043c9db.jpg">
+•initwindow (500, 500, "ANALOG CLOCK") makes a window of height and width of 5oopx with the window title as "ANALOG CLOCK"
 
-<img width="616" alt="Explanation part-2" src="https://user-images.githubusercontent.com/111975032/212145016-6e55b0d8-cc2b-4490-a6ba-f2cb5b380956.jpg">
+•circle (250, 250, 200) will create a circle with centre(250,250) and radius of 200 
 
+•circle (250, 250, 5) will create a small dial at the centre
+
+
+<img width="475" alt="2023-01-12 (12)" src="https://user-images.githubusercontent.com/111975032/212147999-06fc6e56-4c88-45fc-b4a8-01bbb7f147a1.png">
 
 
 
