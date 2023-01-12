@@ -60,6 +60,12 @@ time_t now= time (0)
 where time_t is a structure
 and time() is a method
 
+To bring the time in readable format,
+
+tm *ltm=localtime(&now)
+
+This time is in а 24 hour format and is stored in a readable format in ltm
+
 
 ### Output
 <img width="616" alt="2023-01-12 (11)" src="https://user-images.githubusercontent.com/111975032/212131185-092ca8b0-c80f-4991-a8e9-a64680c09645.png">
