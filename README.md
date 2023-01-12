@@ -28,6 +28,16 @@ shows the system time
 
 •closegraph()
 
+
+### About Code
+
+![IMG_20230112_233442](https://user-images.githubusercontent.com/111975032/212144893-0605ed93-164c-4f7d-b4dd-0c1ce043c9db.jpg)
+
+
+![IMG_20230112_233454](https://user-images.githubusercontent.com/111975032/212145016-6e55b0d8-cc2b-4490-a6ba-f2cb5b380956.jpg)
+
+
+
 ### Output
 <img width="616" alt="2023-01-12 (11)" src="https://user-images.githubusercontent.com/111975032/212131185-092ca8b0-c80f-4991-a8e9-a64680c09645.png">
 
