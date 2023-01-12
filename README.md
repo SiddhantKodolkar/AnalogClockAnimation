@@ -46,6 +46,21 @@ Co-ordinates of print C = (250+ BC, 250-AB)
 
 Define π as 3.1415, make sure to include math class
 
+
+•outtextxy (250 + 180 * sin(π/6), 250-180 *cos(π/6),"1")
+
+This function will print "1" at the above mentioned x and у co-ordinates
+
+Similarly, print all other numbers with a gap of π/6 between every two numbers.
+
+To get system time, include ctime or time.h library
+
+time_t now= time (0)
+
+where time_t is a structure
+and time() is a method
+
+
 ### Output
 <img width="616" alt="2023-01-12 (11)" src="https://user-images.githubusercontent.com/111975032/212131185-092ca8b0-c80f-4991-a8e9-a64680c09645.png">
 
