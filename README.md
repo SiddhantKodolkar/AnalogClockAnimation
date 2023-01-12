@@ -30,3 +30,9 @@ shows the system time
 
 ### Output
 <img width="616" alt="2023-01-12 (11)" src="https://user-images.githubusercontent.com/111975032/212131185-092ca8b0-c80f-4991-a8e9-a64680c09645.png">
+
+
+### Authors
+- [@SiddhantKodolkar](https://www.github.com/SiddhantKodolkar)
+- [@Divesh Mangtani](https://www.github.com/Divesh-Mangtani)
+
